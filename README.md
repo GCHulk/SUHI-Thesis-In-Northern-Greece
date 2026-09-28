@@ -36,5 +36,5 @@ Urban structures such as buildings, roads, and other infrastructure absorb and r
 The satellite data analysis revealed significant differences in the surface temperature distribution between the urban centers and their surrounding natural zones, clearly demonstrating the existence and spatial extent of the urban heat island effect in both Thessaloniki and Xanthi.
 
 ## Author
-**Γεώργιος Χαλκιάς**
+**Georgios Chalkias**
 *Environmental Engineer - Integrated Masters, Democritus University Of Thrace*
